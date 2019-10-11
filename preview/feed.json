@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "myblog",
+    "description": "",
+    "home_page_url": "file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview",
+    "feed_url": "file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "kmt"
+    },
+    "items": [
+        {
+            "id": "file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview/favourite-facts.html",
+            "url": "file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview/favourite-facts.html",
+            "title": "Favourite Facts",
+            "summary": "hhA man once robbed a bank for $1 so he could be arrested and sent to jail for free medical health care.— Fact (@Fact) October 11, 2019// https://www.theguardian.com/world/2011/jun/21/verone-one-dollar-robbery-healthcare​",
+            "content_html": "<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"en\">hhA man once robbed a bank for $1 so he could be arrested and sent to jail for free medical health care.</p>\n— Fact (@Fact) <a href=\"https://twitter.com/Fact/status/1182523975269834752?ref_src=twsrc%5Etfw\">October 11, 2019</a></blockquote>\n<script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\">// <![CDATA[\n<a href=\"https://www.theguardian.com/world/2011/jun/21/verone-one-dollar-robbery-healthcare\"  >https://www.theguardian.com/world/2011/jun/21/verone-one-dollar-robbery-healthcare</a><span id=\"mce_marker\"  >​</span>\n// ]]></script>",
+            "author": {
+                "name": "kmt"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-11T11:41:48+05:30",
+            "date_modified": "2019-10-11T11:46:21+05:30"
+        }
+    ]
+}

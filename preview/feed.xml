@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>myblog</title>
+    <link href="file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview/feed.xml" rel="self" />
+    <link href="file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview" />
+    <updated>2019-10-11T11:53:29+05:30</updated>
+    <author>
+        <name>kmt</name>
+    </author>
+    <id>file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview</id>
+
+    <entry>
+        <title>Favourite Facts</title>
+        <author>
+            <name>kmt</name>
+        </author>
+        <link href="file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview/favourite-facts.html"/>
+        <id>file:///home/tabish/mean_projects/publii_blogs/myblog/myblog/preview/favourite-facts.html</id>
+
+        <updated>2019-10-11T11:46:21+05:30</updated>
+            <summary>
+                <![CDATA[
+                    hhA man once robbed a bank for $1 so he could be arrested and sent to jail for free medical health care.— Fact (@Fact) October 11, 2019// https://www.theguardian.com/world/2011/jun/21/verone-one-dollar-robbery-healthcare​
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">hhA man once robbed a bank for $1 so he could be arrested and sent to jail for free medical health care.</p>
+— Fact (@Fact) <a href="https://twitter.com/Fact/status/1182523975269834752?ref_src=twsrc%5Etfw">October 11, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8">// <![CDATA[
+<a href="https://www.theguardian.com/world/2011/jun/21/verone-one-dollar-robbery-healthcare"  >https://www.theguardian.com/world/2011/jun/21/verone-one-dollar-robbery-healthcare</a><span id="mce_marker"  >​</span>
+// ]]></script>
+            ]]>
+        </content>
+    </entry>
+</feed>
